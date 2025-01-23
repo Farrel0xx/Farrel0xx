@@ -61,3 +61,29 @@
 </p>
 
 ---
+---
+
+# 🌌 Let the Code Speak Itself  
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlkcDZnbTY4YnhpdG5yc2Z4dGhhbWRmbmx3ZTFjcXZrNzZ0bzI5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs7KViFzkRt3OPaE/giphy.gif" alt="Code GIF" width="500"/>
+</p>
+
+### 🚀 Highlight  
+💡 **Curious by Nature**: Always diving deep into code and security 🔎  
+🛠️ **Toolkit Mastery**: From metasploit to medical codes, the skillset is ever-expanding.  
+🌐 **Collaborator**: Open to teaming up on bug bounty, automation, or anything that makes an impact.
+
+---
+
+# 🛡️ Join the Journey  
+
+🎯 Check out my [repositories](https://github.com/Farrel0xx?tab=repositories) for open-source contributions and personal projects.  
+📩 Let's connect and create something meaningful!
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Farrel0xx&icon=5&color=12" alt="Profile Visits" />
+</p>
+---
