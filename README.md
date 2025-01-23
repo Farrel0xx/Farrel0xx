@@ -9,12 +9,12 @@
 
 ---
 
-# 💫 About Me:
+# 💫 About Me :
 - 👨‍💻 **Software Enthusiast**  
 - 🔐 **Passionate About Coding & Cybersecurity**  
-- 🐛 **Bug Bounty Learner**  
-- 💉 **Medical Coder**  
-- 🚀 **Exploring Tools Like Ruby & Metasploit**  
+- 🐛 **Bug Bounty Enthusiast**  
+- 💉 **Medical Coder && Admission**  
+- 🚀 **Exploring Tools Like Nuclei & Metasploit**  
 - 💡 **Open to Collaboration & Continuous Learning**
 
 ---
@@ -61,10 +61,3 @@
 </p>
 
 ---
-
-# 💰 Support Me:
-<p align="center">
-  <a href="https://buymeacoffee.com/ghost_sec">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-</p>
