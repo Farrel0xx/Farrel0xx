@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/gh-ost00?style=for-the-badge" alt="Followers" />
   <img src="https://img.shields.io/github/stars/gh-ost00?style=for-the-badge" alt="Stars" />
-  <img src="https://visitcount.itsvg.in/api?id=gh-ost00&icon=0&color=12" alt="Visitors" />
 </p>
 
 ---
