@@ -11,7 +11,7 @@
 
 ---
 
-# 💫 [A̲̅][b̲̅][o̲̅][u̲̅][t̲̅] [m̲̅][e̲̅]
+# 💫 🅐🅑🅞🅤🅣 🅜🅔
 - 👨‍💻 **Software Enthusiast**  
 - 🔐 **Passionate About Coding & Cybersecurity**  
 - 🐛 **Bug Bounty Enthusiast**  
