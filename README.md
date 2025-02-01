@@ -12,12 +12,12 @@
 ---
 
 # 💫 ☆.´ `. ☽¸.☆, 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 ,☆.¸☽ .` ´.☆ 💯
-- 👨‍💻 **Software Enthusiast**  
-- 🔐 **Passionate About Coding & Cybersecurity**  
-- 🐛 **Bug Bounty Enthusiast**  
-- 💉 **Medical Coder && Admission**  
-- 🚀 **Exploring Tools Like Nuclei & Metasploit**  
-- 💡 **Open to Collaboration & Continuous Learning**
+➥ 👨‍💻 **Software Enthusiast**  
+➥ 🔐 **Passionate About Coding & Cybersecurity**  
+➥ 🐛 **Bug Bounty Enthusiast**  
+➥ 💉 **Medical Coder && Admission**  
+➥ 🚀 **Exploring Tools Like Nuclei & Metasploit**  
+➥ 💡 **Open to Collaboration & Continuous Learning**
 
 ---
 
