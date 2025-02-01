@@ -11,7 +11,7 @@
 
 ---
 
-# 💫 🄰 🄱 🄾 🅄 🅃 🄼 🄴 💯
+# 💫 About me (ㆆᴗㆆ) 💯
 - 👨‍💻 **Software Enthusiast**  
 - 🔐 **Passionate About Coding & Cybersecurity**  
 - 🐛 **Bug Bounty Enthusiast**  
