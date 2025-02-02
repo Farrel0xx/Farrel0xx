@@ -11,7 +11,7 @@
 
 ---
 
-# ​🇦​​🇧​​🇴​​🇺​​🇹​ ​🇲​​🇪​ ☑️
+# ​🇦​​🇧​​🇴​​🇺​​🇹​ ​🇲​​🇪​
 ➥ 👨‍💻 **Software Enthusiast**  
 ➥ 🔐 **Passionate About Coding & Cybersecurity**  
 ➥ 🐛 **Bug Bounty Enthusiast**  
@@ -21,7 +21,7 @@
 
 ---
 
-# 💻 𝕽𝖔𝖔𝖙 𝖒𝖆𝖘𝖙𝖊𝖗 
+# 💻 ​🇲​​🇾​ ​🇪​​🇽​​🇵​​🇪​​🇷​​🇮​​🇪​​🇳​​🇨​​🇪​ 
 ### Programming Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
@@ -46,7 +46,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gh-ost00&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
@@ -57,7 +57,7 @@
 
 ---
 
-# 🎨 Fun Visuals:
+# 🎨 Fun Visuals :
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
