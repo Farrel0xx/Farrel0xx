@@ -11,7 +11,7 @@
 
 ---
 
-# ​🇦​​🇧​​🇴​​🇺​​🇹​ ​🇲​​🇪​
+# 📝 ​🇦​​🇧​​🇴​​🇺​​🇹​ ​🇲​​🇪​
 ➥ 👨‍💻 **Software Enthusiast**  
 ➥ 🔐 **Passionate About Coding & Cybersecurity**  
 ➥ 🐛 **Bug Bounty Enthusiast**  
@@ -46,7 +46,9 @@
 
 ---
 
-# 📊 GitHub Stats :
+# 📊 ​🇦​​🇨​​🇭​​🇮​​🇪​​🇻​​🇪​​🇲​​🇪​​🇳​​🇹​
+
+ :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gh-ost00&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
@@ -57,7 +59,7 @@
 
 ---
 
-# 🎨 Fun Visuals :
+# 🎨 ​🇲​​🇴​​🇹​​🇮​​🇻​​🇦​​🇹​​🇮​​🇴​​🇳​ :
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
@@ -65,7 +67,7 @@
 ---
 ---
 
-# 🌌 Let the Code Speak Itself  
+# 🌌 4️⃣0️⃣4️⃣ ​🇳​​🇴​​🇹​ ​🇫​​🇴​​🇺​​🇳​​🇩​ 
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlkcDZnbTY4YnhpdG5yc2Z4dGhhbWRmbmx3ZTFjcXZrNzZ0bzI5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs7KViFzkRt3OPaE/giphy.gif" alt="Code GIF" width="500"/>
