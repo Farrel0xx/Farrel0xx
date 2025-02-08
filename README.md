@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhvaW1oenN6d210YTU1ODM3bDNlOXhsaGx3eno2YnBrMmljNWlxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HkFkuxrcSjeAhszTpS/giphy.gif" width="49%">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnh2Nmx5ajNrejRsYTZqcDEzZXlwcWY4MWMybGxtdzRqbzJ4bm50dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3iJPLbnnyqLnfrWMjP/giphy.gif" width="49%">
+  <img src="background.jpg.png" alt="Background Image" width="100%">
 </p>
 
 # 👋 ♥Ƹ̵̡Ӝ̵̨̄Ʒ♥ 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖒𝖞 𝕲𝖎𝖙𝖍𝖚𝖇 ♥Ƹ̵̡Ӝ̵̨̄Ʒ♥
