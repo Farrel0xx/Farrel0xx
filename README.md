@@ -1,68 +1,102 @@
-<p align="center">
-  <img src="background.jpg.png" alt="Header Banner" width="100%">
-</p>
+<div align="center">
 
-<h1 align="center">◈ Welcome to My Digital Playground ◈</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4479A1&center=true&vCenter=true&width=435&lines=Software+Enthusiast;Cybersecurity+Researcher;Bug+Bounty+Hunter;Continuous+Learner" alt="Typing SVG" />
-</p>
+<img src="background.jpg.png" alt="Header Banner" width="100%">
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/gh-ost00?style=for-the-badge&logo=github&color=24292e" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/gh-ost00?style=for-the-badge&logo=reverbnation&color=24292e" alt="Stars" />
-</p>
+<h1>👋 Hi, I'm Sumantri (Farrel)</h1>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Healthcare+Data+%26+Admin+Specialist;Python+Automation+Builder;AI+Productivity+Explorer;8%2B+Years+in+Hospital+Data+Management" alt="Typing SVG" />
 
-### 🌑 Identity
-> **"Curiosity is the engine of achievement."**
+<br/>
 
-I am **gh-ost00**, a developer deeply immersed in the world of code and security. My journey spans from building robust web applications to hunting for vulnerabilities in the wild. I balance my technical curiosity with professional expertise in medical systems.
+<img src="https://img.shields.io/badge/📍-Palembang%2C%20Indonesia-38BDF8?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/github/followers/Farrel0xx?style=for-the-badge&logo=github&color=1a1a2e&labelColor=38BDF8&logoColor=1a1a2e" />
+<img src="https://img.shields.io/github/stars/Farrel0xx?style=for-the-badge&logo=reverbnation&color=1a1a2e&labelColor=38BDF8&logoColor=1a1a2e" />
 
-* 🔭 **Security**: Exploring Nuclei, Metasploit, and advanced pentesting.
-* 💻 **Dev Ops**: Crafting environments with Nginx and Apache.
-* 💉 **Professional**: Specialist in Medical Coding && Admission.
-* 🤝 **Collaboration**: Open to bug bounty teams and open-source projects.
+</div>
 
----
+<br/>
 
-### 🛠️ Arsenal (Tech Stack)
+## 🌑 About Me
 
-| Specialization | Technologies |
-| :--- | :--- |
-| **Languages** | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+> *"Curiosity is the engine of achievement."*
 
----
+Administration & data management professional with **8+ years** of experience in hospital settings — handling medical records, patient data reporting, and BPJS insurance claims administration. I enjoy building **Python**-based automation tools to speed up everyday data work, and I'm actively exploring how **AI** can boost productivity.
 
-### 📊 Performance Analytics
+```
+🏥  Admission & Medical Records Staff @ RSIA Rika Amelia — Palembang
+🐍  Building Python-based automation tools
+📊  SIRS Online reporting (Ministry of Health) & BPJS claims administration (INA-CBGs)
+🤖  Exploring Machine Learning & AI tools for work efficiency
+🤝  Open to collaborating on data automation & open-source projects
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gh-ost00&theme=dracula&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-ost00&theme=dracula&layout=compact&hide_border=true" width="48%" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gh-ost00&theme=dracula&hide_border=true" width="100%" />
-</p>
+## 📈 Impact So Far
 
----
+<div align="center">
 
-### 🐍 Contribution Journey
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gh-ost00/gh-ost00/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+| 🕒 8+ Years | ⚡ 30–90% | ✅ 100% |
+|:---:|:---:|:---:|
+| Hospital experience | Data efficiency improvement | SIRS reporting compliance |
 
----
+</div>
 
-### 📡 Get In Touch
-<p align="center">
-  <a href="https://github.com/Farrel0xx?tab=repositories">
-    <img src="https://img.shields.io/badge/Check_My_Projects-24292e?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlkcDZnbTY4YnhpdG5yc2Z4dGhhbWRmbmx3ZTFjcXZrNzZ0bzI5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs7KViFzkRt3OPaE/giphy.gif" width="300" style="border-radius: 10px;" />
-</p>
+## 🛠️ Tools & Skills
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel%20Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![AI](https://img.shields.io/badge/-AI%20Productivity%20Tools-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ML](https://img.shields.io/badge/-Machine%20Learning%20Basics-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Healthcare](https://img.shields.io/badge/-Healthcare%20Data%20%26%20BPJS%20Claims-0EA5E9?style=for-the-badge&logo=heart&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📊 GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Farrel0xx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farrel0xx&theme=tokyonight&layout=compact&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Farrel0xx&theme=tokyonight&hide_border=true" width="100%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Farrel0xx&theme=tokyo-night&hide_border=true" width="100%" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Farrel0xx/Farrel0xx/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+</div>
+
+<br/>
+
+## 📡 Let's Connect
+
+<div align="center">
+
+<a href="https://www.youtube.com/@mantri0xx/videos">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://github.com/Farrel0xx?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Farrel0xx&style=for-the-badge&color=38BDF8&label=Profile+Views" />
+
+</div>
