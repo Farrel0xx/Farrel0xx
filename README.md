@@ -59,7 +59,7 @@ Administration & data management professional with **8+ years** of experience in
 
 <br/>
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Farrel0xx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
@@ -67,11 +67,7 @@ Administration & data management professional with **8+ years** of experience in
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Farrel0xx&theme=tokyonight&hide_border=true" width="100%" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Farrel0xx&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://streak-stats.demolab.com?user=Farrel0xx&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
 <br/>
@@ -81,6 +77,8 @@ Administration & data management professional with **8+ years** of experience in
 <div align="center">
 <img src="https://raw.githubusercontent.com/Farrel0xx/Farrel0xx/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 </div>
+
+> ⚠️ If this section looks broken, the Snake GitHub Action hasn't been set up yet in this repo. See `snake.yml` (shared separately) for the one-time setup — once it's committed and run once, it will update itself daily automatically.
 
 <br/>
 
