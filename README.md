@@ -1,100 +1,170 @@
 <div align="center">
 
-<img src="background.jpg.png" alt="Header Banner" width="100%">
+# `Farrel0xx`
 
-<h1>👋 Hi, I'm Sumantri (Farrel)</h1>
+### AI • Machine Learning • Healthcare Technology • Automation
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Healthcare+Data+%26+Admin+Specialist;Python+Automation+Builder;AI+Productivity+Explorer;8%2B+Years+in+Hospital+Data+Management" alt="Typing SVG" />
+<p>
+  <a href="https://github.com/farrel0xx">
+    <img src="https://img.shields.io/badge/GitHub-Farrel0xx-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.youtube.com/@mantri0xx">
+    <img src="https://img.shields.io/badge/YouTube-Mantri0xx-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+</p>
 
-<br/>
-
-<img src="https://img.shields.io/badge/📍-Palembang%2C%20Indonesia-38BDF8?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/github/followers/Farrel0xx?style=for-the-badge&logo=github&color=1a1a2e&labelColor=38BDF8&logoColor=1a1a2e" />
-<img src="https://img.shields.io/github/stars/Farrel0xx?style=for-the-badge&logo=reverbnation&color=1a1a2e&labelColor=38BDF8&logoColor=1a1a2e" />
+> **Building practical technology for real-world problems — especially in healthcare.**
 
 </div>
 
-<br/>
+---
 
-## 🌑 About Me
+## 👨‍💻 About Me
 
-> *"Curiosity is the engine of achievement."*
+I'm **Farrel0xx**, an aspiring AI & Machine Learning practitioner with a background in **healthcare data and administration**.
 
-Administration & data management professional with **8+ years** of experience in hospital settings — handling medical records, patient data reporting, and BPJS insurance claims administration. I enjoy building **Python**-based automation tools to speed up everyday data work, and I'm actively exploring how **AI** can boost productivity.
+My interests sit at the intersection of:
 
+- 🤖 Artificial Intelligence & Machine Learning
+- 🐍 Python automation
+- 🏥 Healthcare technology & health data
+- 📊 Data processing & analytics
+- ⚙️ Workflow automation
+- 💻 IT & system troubleshooting
+- 🎥 Technology content creation
+
+I enjoy learning by building things, experimenting with new technologies, and turning repetitive workflows into something more efficient.
+
+---
+
+## 🧠 What I'm Working On
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   🐍 Python Automation                                      │
+│   ├── Data processing                                       │
+│   ├── Administrative workflow automation                   │
+│   └── Productivity tools                                    │
+│                                                             │
+│   🤖 AI / Machine Learning                                  │
+│   ├── AI-assisted productivity                              │
+│   ├── Machine learning fundamentals                         │
+│   └── Practical AI experiments                              │
+│                                                             │
+│   🏥 Healthcare Technology                                  │
+│   ├── Healthcare data                                       │
+│   ├── Digital health                                        │
+│   └── Health-tech innovation                                │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
-🏥  Admission & Medical Records Staff @ RSIA Rika Amelia — Palembang
-🐍  Building Python-based automation tools
-📊  SIRS Online reporting (Ministry of Health) & BPJS claims administration (INA-CBGs)
-🤖  Exploring Machine Learning & AI tools for work efficiency
-🤝  Open to collaborating on data automation & open-source projects
+
+---
+
+## 🏆 Experience & Highlights
+
+### 🏥 Healthcare Administration
+
+Experience working with **healthcare administration and data**, including reporting, data management, documentation, and day-to-day administrative workflows.
+
+### 🧪 HEALTHKATHON 2025 — BPJS Kesehatan
+
+Participated in **HEALTHKATHON 2025**, developing and presenting:
+
+> **JKN CLAIM SHIELD**
+
+A health-tech project developed as part of the competition.
+
+📜 Received a **Certificate of Appreciation** for participation and contribution.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Data
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
+</p>
+
+### AI / ML
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat-square">
+  <img src="https://img.shields.io/badge/Data%20Analysis-1F6FEB?style=flat-square">
+</p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white">
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 🛡️ JKN CLAIM SHIELD
+
+**HEALTHKATHON 2025 — BPJS Kesehatan**
+
+A project developed for the HEALTHKATHON 2025 competition.
+
+**Focus:** Healthcare technology • Data • Innovation
+
+> More project details and source code will be added as the project portfolio evolves.
+
+---
+
+## 📺 YouTube
+
+I also document my learning journey, technology experiments, projects, and other content on YouTube.
+
+### 🎬 [Visit my YouTube Channel](https://www.youtube.com/@mantri0xx)
+
+**Mantri0xx**
+
+---
+
+## 📈 My Learning Philosophy
+
+```python
+while True:
+    learn()
+    build()
+    experiment()
+    fail()
+    improve()
 ```
 
-<br/>
+I believe the fastest way to improve is to **learn → build → break → fix → repeat**.
 
-## 📈 Impact So Far
+---
 
-<div align="center">
+## 🎯 Current Goals
 
-| 🕒 8+ Years | ⚡ 30–90% | ✅ 100% |
-|:---:|:---:|:---:|
-| Hospital experience | Data efficiency improvement | SIRS reporting compliance |
+- [ ] Build practical AI & ML projects
+- [ ] Improve Python automation skills
+- [ ] Explore real-world healthcare AI
+- [ ] Build a stronger GitHub portfolio
+- [ ] Publish useful technical content
+- [ ] Turn ideas into working products
 
-</div>
-
-<br/>
-
-## 🛠️ Tools & Skills
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel%20Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![AI](https://img.shields.io/badge/-AI%20Productivity%20Tools-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ML](https://img.shields.io/badge/-Machine%20Learning%20Basics-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Healthcare](https://img.shields.io/badge/-Healthcare%20Data%20%26%20BPJS%20Claims-0EA5E9?style=for-the-badge&logo=heart&logoColor=white)
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Farrel0xx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farrel0xx&theme=tokyonight&layout=compact&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Farrel0xx&theme=tokyonight&hide_border=true" width="100%" />
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Farrel0xx/Farrel0xx/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
-</div>
-
-> ⚠️ If this section looks broken, the Snake GitHub Action hasn't been set up yet in this repo. See `snake.yml` (shared separately) for the one-time setup — once it's committed and run once, it will update itself daily automatically.
-
-<br/>
-
-## 📡 Let's Connect
+---
 
 <div align="center">
 
-<a href="https://www.youtube.com/@mantri0xx/videos">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="https://github.com/Farrel0xx?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### `Always learning. Always building.`
 
-<br/><br/>
+⭐ If you find something useful here, consider giving the repository a star.
 
-<img src="https://komarev.com/ghpvc/?username=Farrel0xx&style=for-the-badge&color=38BDF8&label=Profile+Views" />
+**© Farrel0xx**
 
 </div>
