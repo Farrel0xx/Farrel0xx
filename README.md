@@ -1,6 +1,6 @@
 <div align="center">
 
-# `Farrel0xx`
+# `Hello world 🌍`
 
 ### AI • Machine Learning • Healthcare Technology • Automation
 
