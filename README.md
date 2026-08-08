@@ -4,6 +4,8 @@
 
 ### AI • Machine Learning • Healthcare Technology • Automation
 
+<img src="./repository-banner.png" alt="Farrel0xx Repository Banner" width="100%">
+
 <p>
   <a href="https://github.com/farrel0xx">
     <img src="https://img.shields.io/badge/GitHub-Farrel0xx-181717?style=for-the-badge&logo=github" alt="GitHub">
@@ -21,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Farrel0xx**, an aspiring AI & Machine Learning practitioner with a background in **healthcare data and administration**.
+I'm **Farrel0xx**, an aspiring **AI & Machine Learning practitioner** with a background in **healthcare data and administration**.
 
 My interests sit at the intersection of:
 
@@ -72,7 +74,7 @@ Experience working with **healthcare administration and data**, including report
 
 Participated in **HEALTHKATHON 2025**, developing and presenting:
 
-> **JKN CLAIM SHIELD**
+> ## 🛡️ JKN CLAIM SHIELD
 
 A health-tech project developed as part of the competition.
 
@@ -85,26 +87,26 @@ A health-tech project developed as part of the competition.
 ### Languages & Data
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 </p>
 
 ### AI / ML
 
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat-square">
-  <img src="https://img.shields.io/badge/Data%20Analysis-1F6FEB?style=flat-square">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Data%20Analysis-1F6FEB?style=for-the-badge">
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white">
 </p>
 
 ---
@@ -115,9 +117,9 @@ A health-tech project developed as part of the competition.
 
 **HEALTHKATHON 2025 — BPJS Kesehatan**
 
-A project developed for the HEALTHKATHON 2025 competition.
+A project developed for the **HEALTHKATHON 2025** competition.
 
-**Focus:** Healthcare technology • Data • Innovation
+**Focus:** `Healthcare Technology` • `Data` • `Innovation`
 
 > More project details and source code will be added as the project portfolio evolves.
 
@@ -144,7 +146,9 @@ while True:
     improve()
 ```
 
-I believe the fastest way to improve is to **learn → build → break → fix → repeat**.
+I believe the fastest way to improve is to:
+
+**learn → build → break → fix → repeat**
 
 ---
 
@@ -161,7 +165,7 @@ I believe the fastest way to improve is to **learn → build → break → fix �
 
 <div align="center">
 
-### `Always learning. Always building.`
+## `Always learning. Always building.`
 
 ⭐ If you find something useful here, consider giving the repository a star.
 
